@@ -1,0 +1,6 @@
+.container{
+  height: 10vh;
+  display: flex;
+  background-color: pink;
+  justify-content: center;
+}
